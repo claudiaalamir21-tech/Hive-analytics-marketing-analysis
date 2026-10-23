@@ -10,17 +10,15 @@ This project presents an interactive, multi-page Power BI report designed to exp
 
 ## Report Preview
 
-| Custom Landing Page | Campaign Analysis |
-|---|---|
-| ![Hive Analytics landing page](images/01-landing-page.jpg) | ![Campaign analysis](images/02-campaign-analysis.jpg) |
+[Optional: Open the custom landing page](01-landing-page.jpg)
 
-| Product Analysis | Customer Analysis |
+| Campaign Analysis | Product Analysis |
 |---|---|
-| ![Product analysis](images/03-product-analysis.jpg) | ![Customer analysis](images/04-customer-analysis.jpg) |
+| ![Campaign analysis](02-campaign-analysis.jpg) | ![Product analysis](03-product-analysis.jpg) |
 
-| Business Recommendations |
-|---|
-| ![Business recommendations](images/05-business-recommendations.jpg) |
+| Customer Analysis | Business Recommendations |
+|---|---|
+| ![Customer analysis](04-customer-analysis.jpg) | ![Business recommendations](05-business-recommendations.jpg) |
 
 ## Report Structure
 
